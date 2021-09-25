@@ -1,5 +1,5 @@
 import json
-file=open('jupyter/morningCall_kanna/info.json','r')
+file=open('info.json','r')
 info=json.load(file)
 from linebot import LineBotApi
 from linebot.models import TextSendMessage
