@@ -28,4 +28,4 @@ jobs:
        # env:
          # CHANNEL_ACCESS_TOKEN: ""
         run: |
-            python Jupyter/morningCall_kanna/main.py
+            python main.py
